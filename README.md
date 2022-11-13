@@ -24,7 +24,7 @@ Para acessar o site use:
 
 ## Servidor de desenvolvimento
 
-Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+Run `ng serve --open` para um servidor dev. Navegar para `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
 ## Code scaffolding
 
