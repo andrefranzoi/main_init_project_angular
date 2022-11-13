@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 32px">
-  <a href="https://erdkse.com" >
+  <a href="https://github.com/andrefranzoi" >
     <img src="https://raw.githubusercontent.com/erdkse/adminlte-3-angular/main/src/assets/img/logo.png" alt="AdminLTE logo" width="75" height="75">
   </a>
 </p>
@@ -7,51 +7,41 @@
 <h1 align="center">Admin LTE 3.2.0 - Angular 14.2.0</h1>
 
 <p>
-  This repository is a form of original AdminLTE project. It is aim to use AdminLTE template with Angular.
+  Este repositório é uma forma de projeto AdminLTE original. O objetivo é usar o modelo AdminLTE com Angular.
 </p>
 <br>
 
 <span align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/erdkse/adminlte-3-angular)](https://repl.it/github/erdkse/adminlte-3-angular)
-![Vercel](https://img.shields.io/github/deployments/erdkse/adminlte-3-angular/production.svg?logo=vercel&label=vercel)
-![Issues](https://img.shields.io/github/issues/erdkse/adminlte-3-angular)
-![Forks](https://img.shields.io/github/forks/erdkse/adminlte-3-angular)
-![Stars](https://img.shields.io/github/stars/erdkse/adminlte-3-angular)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-![GitHub last commit](https://img.shields.io/github/last-commit/erdkse/adminlte-3-angular.svg)
-[![License](https://img.shields.io/github/license/erdkse/adminlte-3-angular.svg)](LICENSE)
-![Sponsors](https://img.shields.io/github/sponsors/erdkse.svg)
-
 </span>
 
 <br>
 
-To login website use:
+Para acessar o site use:
 
 `username:` admin@example.com<br />
 `password:` admin<br />
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build` para construir o projeto. Os app de produção será armazenados no `dist/` diretório. Use o `--prod` sinalizador para uma compilação de produção.
 
-## Running unit tests
+## Executando testes de unidade
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Executando testes de ponta a ponta
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` para executar os testes de ponta a ponta via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Mais ajuda
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para obter mais ajuda sobre o uso da CLI Angular `ng help` ou vá até [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
