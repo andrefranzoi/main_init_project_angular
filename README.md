@@ -19,12 +19,12 @@
 
 ## Primeiros Passos
 
-Como usar esse modelo:
-`Baixar o repositório via GIT:` [.ZIP](https://github.com/andrefranzoi/main_init_project_angular/archive/refs/heads/master.zip)
-Após isso rode o comando `npm i`
+Como usar esse modelo:<br />
+`Baixar o repositório via GIT:` [.ZIP](https://github.com/andrefranzoi/main_init_project_angular/archive/refs/heads/master.zip)<br />
+Após isso rode o comando `npm i`<br />
 Troque todos os nomes `main_init_project_angular` pelo nome do seu projeto
 
-Para acessar use:
+Para acessar use: <br />
 `username:` admin@example.com<br />
 `password:` admin<br />
 
